@@ -1,4 +1,4 @@
 # DDSP-Dial
-Project exploring the use of manipulating differentiable DSP instrument models to find the spaces between instruments.
+User-centric manipulation of the space between nerual instrument models. Interactive creative computing.
 
 The notebook is designed to function in a google colab environment.
